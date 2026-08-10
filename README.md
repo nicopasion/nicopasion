@@ -87,20 +87,7 @@ Client work, so described by shape rather than name.
 | **SEO / AEO / GEO scanner** | Next.js · Supabase · Anthropic SDK | Crawls a site, scores it across nine modules, generates AI fix suggestions, produces PDF reports |
 | **Surplus-funds AI assistant** | Next.js · Supabase · RAG · ElevenLabs · Stripe | Voice and chat assistant over a private knowledge base, behind a live paywall |
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nicopasion&show_icons=true&hide_border=true&title_color=8B0101&icon_color=8B0101&count_private=true&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicopasion&layout=compact&hide_border=true&title_color=8B0101&langs_count=8" alt="top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicopasion&hide_border=true&ring=8B0101&fire=8B0101&currStreakLabel=8B0101" alt="streak" />
-
-</div>
-
-> Most of my work is in **private client repositories**, so the public contribution graph shows a fraction of it.
+> **A note on the contribution graph.** Almost all of the above lives in **private client repositories**, so what is public here is a small fraction of the work. Happy to walk through any of it in detail.
 
 ---
 

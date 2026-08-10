@@ -113,8 +113,7 @@ Client work, so described by shape rather than name.
 
 ## 📫 Get in touch
 
-[![Email](https://img.shields.io/badge/Email-8B0101?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nico@softlinkiq.com)
-[![Website](https://img.shields.io/badge/Website-8B0101?style=for-the-badge&logo=googlechrome&logoColor=white)](https://softlinkiq.com)
+[![Email](https://img.shields.io/badge/Email-8B0101?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicoarchelauspasion@gmail.com)
 
 <br>
 

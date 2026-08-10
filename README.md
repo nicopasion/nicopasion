@@ -6,7 +6,7 @@
 
 **Next.js · TypeScript · Node · Postgres · Supabase · GoHighLevel · Telephony · LLM Integration**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B0101&center=true&vCenter=true&width=620&lines=I+ship+production+systems%2C+not+prototypes.;Multi-tenant+SaaS+%C2%B7+CRM+%C2%B7+Telecom+%C2%B7+Marketplaces;15+years+building.+3+years+leading+the+people+who+build." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B0101&center=true&vCenter=true&width=750&height=50&lines=I+ship+production+systems%2C+not+prototypes.;Multi-tenant+SaaS+%C2%B7+CRM+%C2%B7+Telecom+%C2%B7+Marketplaces;15%2B+years+building.+3+years+leading.;US+%C2%B7+Canada+%C2%B7+Puerto+Rico+%C2%B7+UK+%C2%B7+SE+Asia" alt="Typing SVG" />
 
 </div>
 
